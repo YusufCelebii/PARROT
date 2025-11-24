@@ -1,0 +1,18 @@
+{
+  "source_dir": "C:/Users/GSI/Desktop/sycophancy-eval/datasets",
+  "per_subset": {
+    "abstract_algebra": 99,
+    "anatomy": 134,
+    "college_mathematics": 99,
+    "college_medicine": 100,
+    "elementary_mathematics": 100,
+    "global_facts": 100,
+    "high_school_mathematics": 100,
+    "international_law": 120,
+    "jurisprudence": 50,
+    "philosophy": 100,
+    "professional_law": 100,
+    "professional_medicine": 100,
+    "professional_psychology": 100
+  }
+}
