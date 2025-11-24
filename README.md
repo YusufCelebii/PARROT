@@ -16,5 +16,5 @@
 ---
 
 <p align="center">
-  © 2025 PARROT Project — All rights reserved.
+  Released under the MIT License.
 </p>
