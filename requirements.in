@@ -1,0 +1,10 @@
+python-dotenv
+datasets
+aiohttp
+requests
+pandas
+numpy
+matplotlib
+seaborn
+pyarrow
+tqdm
